@@ -19,11 +19,12 @@ Create a pull request adding your project.
 
 ### Developer Tools
 
-| Name                                                                                                    | Status      | Description |
-| ------------------------------------------------------------------------------------------------------- | ----------- | ----------- |
-| [Strata Protocol](https://strataprotocol.com/)                                                          | Development        | An open-source protocol to launch tokens around a person, project, idea, or collective on Solana. |
-| [Violet Protocol](https://twitter.com/violetprotocol/status/1499797952130428929)                        | Hackathon        | Ultra🤝Violet, enables *uncollateralized* loans |
-| [Key-Recovery](https://github.com/Joseph-Gross/key-recovery)                                            | Hackathon        | Distributed social private key recovery made by the team at [Sling Protocol](https://twitter.com/slingprotocol) |
+| Name                                                                             | Status      | Description                                                                                                         |
+|----------------------------------------------------------------------------------|-------------|---------------------------------------------------------------------------------------------------------------------|
+| [Strata Protocol](https://strataprotocol.com/)                                   | Development | An open-source protocol to launch tokens around a person, project, idea, or collective on Solana.                   |
+| [Violet Protocol](https://twitter.com/violetprotocol/status/1499797952130428929) | Hackathon   | Ultra🤝Violet, enables *uncollateralized* loans                                                                     |
+| [Key-Recovery](https://github.com/Joseph-Gross/key-recovery)                     | Hackathon   | Distributed social private key recovery made by the team at [Sling Protocol](https://twitter.com/slingprotocol)     |
+| [Cask Protocol](https://cask.fi/)                                                | Beta        | Money flow automation protocol powering use cases such as subscriptions, auto investing, defi loan repayments, etc. |
 
 
 ### Other resources 
