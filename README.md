@@ -21,13 +21,13 @@ Create a pull request adding your project.
 
 ### Media and Interviews.
 
-- [Lit Protocol Overview](https://www.youtube.com/watch?v=YUYdwtRaVxI&t=79s)
-- [Lit Protocol at Eth Portland](https://www.youtube.com/watch?v=285wvBBTa9c)
-- [Lit Protocol at LongHashX Demo Day](https://www.youtube.com/watch?v=Yl4SL8tdPLM)
-- [Lit Protocol: Introduction to Decentralized Access Control](https://www.youtube.com/watch?v=WgiWui2mGWs)
-- [The Road to Data Sovereignty: Lit at Eth Denver](https://www.youtube.com/watch?v=M6wqmie6pbU)
-- [Token Gating and Data Ownership in Web3](https://www.youtube.com/watch?v=CVGh9Un8U5s)
-- [David and Chris on the Zima Red Podcast](https://open.spotify.com/episode/6CBi2BpXmMVnG3Ce1dnifr?si=l8f7mdwfTO-TrINjfL_irg)
+- **[Lit Protocol Overview](https://www.youtube.com/watch?v=YUYdwtRaVxI&t=79s)** - January '22
+- **[Lit Protocol at Eth Portland](https://www.youtube.com/watch?v=285wvBBTa9c)** - November '21
+- **[Lit Protocol at LongHashX Demo Day](https://www.youtube.com/watch?v=Yl4SL8tdPLM)** - January '22
+- **[Lit Protocol: Introduction to Decentralized Access Control](https://www.youtube.com/watch?v=WgiWui2mGWs)** - December '21
+- **[The Road to Data Sovereignty: Lit at Eth Denver](https://www.youtube.com/watch?v=M6wqmie6pbU)** - February '22
+- **[Token Gating and Data Ownership in Web3](https://www.youtube.com/watch?v=CVGh9Un8U5s)** - July '22
+- **[David and Chris on the Zima Red Podcast](https://open.spotify.com/episode/6CBi2BpXmMVnG3Ce1dnifr?si=l8f7mdwfTO-TrINjfL_irg)** - May '22
 
 ### Developer Resources.
 
