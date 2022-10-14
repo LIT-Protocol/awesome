@@ -64,6 +64,7 @@ Create a pull request adding your project.
 - **[Orbis Club](https://orbis.club/)**: A fully decentralized social layer for Web3.
 - **[Gather](https://www.gather.town/)**: Virtual spaces for remote collaboration.
 - **[Headline](https://viaheadline.xyz/)**: A decentralized publishing platform.
+- **[Charmverse](https://www.charmverse.io/)**: Web3-native all-in-one workspace.
 - **[Gateway](https://www.mygateway.xyz/home)**: Verifiable credential platform.
 - **[Tempra](https://ethglobal.com/showcase/tempra-xnxf4)**: Decentralized social platform inspired by Snapchat.
 - **[Lens](https://lens.xyz/)**: Token-gated content on Lens.
@@ -107,6 +108,7 @@ Create a pull request adding your project.
 
 - **[Nowhere](https://www.urnowhere.com/)**: Token-gated metaverse spaces.
 - **[Dataverse](https://dataverse.art/)**: The first secure personal space for everyone, allowing users to aggregate Web2 & Web3 interests and control their online digital persona in one place.
+- **[Mona](https://monaverse.com/)**: Buy, mint, and sell metaverse worlds.
 
 ### Sports
 
