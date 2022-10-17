@@ -82,6 +82,7 @@ Create a pull request adding your project.
 ### Infrastructure
 
 - **[Cask](https://www.cask.fi/)**: Automated, recurring payments.
+- **[Krebit](https://docs.krebit.id/#/?id=main)**: Open identity verification protocol and marketplace for Verifiable Credentials.
 - **[DAP](https://github.com/dap-cool/protocol)**: An SDK for encrypting and decrypting files with Lit Protocol. 
 - **[IPFS Encrypted Files](https://litgateway.com/files)**: Encrypt files on IPFS with Lit.
 - **[DECK](https://usedeck.vercel.app/)**: Private data sharing for Web3.
