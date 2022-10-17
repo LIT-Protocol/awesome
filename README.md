@@ -22,6 +22,7 @@ Create a pull request adding your project.
 ### Media and Interviews.
 
 - **[Lit Protocol Overview](https://www.youtube.com/watch?v=YUYdwtRaVxI&t=79s)** - January '22
+- **[Programmable Key Pairs](https://www.youtube.com/embed/7dN2F2P_6Xo)** - October '22
 - **[Lit Protocol at Eth Portland](https://www.youtube.com/watch?v=285wvBBTa9c)** - November '21
 - **[Lit Protocol at LongHashX Demo Day](https://www.youtube.com/watch?v=Yl4SL8tdPLM)** - January '22
 - **[Lit Protocol: Introduction to Decentralized Access Control](https://www.youtube.com/watch?v=WgiWui2mGWs)** - December '21
