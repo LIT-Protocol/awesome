@@ -40,7 +40,7 @@ Create a pull request adding your project.
 - [Supported Networks](https://developer.litprotocol.com/supportedChains)
 - [Lit Share Modal](https://github.com/LIT-Protocol/lit-share-modal-v3)
 - [Error Handling](https://developer.litprotocol.com/SDK/errorHandling)
-- [Use Cases](https://www.notion.so/a94916becdc0411f848c3095722c7864)
+- [Use Cases](https://developer.litprotocol.com/coreConcepts/usecases)
 
 ### Guides and Demos. 
 
