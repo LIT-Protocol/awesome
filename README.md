@@ -47,7 +47,7 @@ Create a pull request adding your project.
 - **[Bundlr x Arweave Guide](https://developer.litprotocol.com/ToolsAndExamples/bundlrxarweave)**: Encrypt and decrypt private data on Arweave using Lit and Bundlr.
 - **[Lit x Ceramic Guide](https://blog.litprotocol.com/?p=lit-protocol-ceramic-network)**: Encrypt and decrypt a string using Lit’s Ceramic SDK.
 - **[Zora’s Metabolism Hackathon Private Data Workshop](https://www.youtube.com/watch?v=9h-n3_T8Exk)**
-- **[Cask x Lit Protocol](https://medium.com/@caskprotocol/cask-protocol-integrates-with-lit-protocol-to-attach-private-data-to-nfts-token-gate-content-496b2c5bb995)**: Attach Private Data to NFT Subscriptions.
+- **[Cask x Lit Protocol](https://medium.com/@caskprotocol/cask-protocol-integrates-with-lit-protocol-to-attach-private-data-to-nfts-token-gate-content-496b2c5bb995)**: Money flow automation protocol powering use cases such as subscriptions, auto investing, defi loan repayments, etc.
 - **[Token Gate a Next.js page by Nader Dabit](https://github.com/dabit3/nextjs-lit-token-gating)**
 - **[Control a Tesla with an NFT](https://www.youtube.com/watch?v=2EZiWT-7Xkk)**
 - **[Gated React App](https://github.com/LIT-Protocol/lit-locked-react-app-minimal-example)**: Lock dynamic content behind a JWT issued by the Lit Network.
