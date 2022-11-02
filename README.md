@@ -37,6 +37,7 @@ Create a pull request adding your project.
 - [SDK API documentation](https://lit-protocol.github.io/lit-js-sdk/api_docs_html/index.html)
 - [Lit Starter Guide](https://blog.litprotocol.com/?p=lit)
 - [Lit Grants](https://developer.litprotocol.com/litGrants)
+- [Lit RFPs](https://litprotocol.notion.site/Lit-Request-for-Ecosystem-Proposals-ae3f31e7f32c413cbe0b36c2fe53378d)
 - [Supported Networks](https://developer.litprotocol.com/supportedChains)
 - [Lit Share Modal](https://github.com/LIT-Protocol/lit-share-modal-v3)
 - [Error Handling](https://developer.litprotocol.com/SDK/errorHandling)
@@ -123,5 +124,4 @@ Create a pull request adding your project.
 - **[Heirloom DAO](https://www.heirloomdao.com/)**: Subscriptions as NFTs.
 - **[Club Goods](https://www.clubgoods.xyz/)**: An e-commerce experiment at the intersection of storytelling, community tokens and physical goods.
 
-### RFPs.
-[coming soon...]
+
