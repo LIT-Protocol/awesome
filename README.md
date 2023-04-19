@@ -35,7 +35,7 @@ Create a pull request adding your project.
 - [Developer Docs](https://developer.litprotocol.com/)
 - [JavaScript SDK](https://github.com/LIT-Protocol/lit-js-sdk)
 - [SDK API documentation](https://lit-protocol.github.io/lit-js-sdk/api_docs_html/index.html)
-- [Lit Starter Guide](https://blog.litprotocol.com/?p=lit)
+- [Lit Starter Guide](https://developer.litprotocol.com)
 - [Lit Grants](https://developer.litprotocol.com/litGrants)
 - [Lit RFPs](https://litprotocol.notion.site/Lit-Request-for-Ecosystem-Proposals-ae3f31e7f32c413cbe0b36c2fe53378d)
 - [Supported Networks](https://developer.litprotocol.com/supportedChains)
@@ -46,7 +46,7 @@ Create a pull request adding your project.
 ### Guides and Demos. 
 
 - **[Bundlr x Arweave Guide](https://developer.litprotocol.com/ToolsAndExamples/bundlrxarweave)**: Encrypt and decrypt private data on Arweave using Lit and Bundlr.
-- **[Lit x Ceramic Guide](https://blog.litprotocol.com/?p=lit-protocol-ceramic-network)**: Encrypt and decrypt a string using Lit’s Ceramic SDK.
+- **[Lit x Ceramic Guide](https://spark.litprotocol.com/private-data-on-the-open-web)**: Encrypt and decrypt a string using Lit’s Ceramic SDK.
 - **[Zora’s Metabolism Hackathon Private Data Workshop](https://www.youtube.com/watch?v=9h-n3_T8Exk)**
 - **[Cask x Lit Protocol](https://medium.com/@caskprotocol/cask-protocol-integrates-with-lit-protocol-to-attach-private-data-to-nfts-token-gate-content-496b2c5bb995)**: Money flow automation protocol powering use cases such as subscriptions, auto investing, defi loan repayments, etc.
 - **[Token Gate a Next.js page by Nader Dabit](https://github.com/dabit3/nextjs-lit-token-gating)**
@@ -57,7 +57,7 @@ Create a pull request adding your project.
 - **[ACL Smart Contract](https://github.com/masaun/ACL-smart-contract)**: Create a flexible and powerful authorization system.
 - **[Ceramic Signer](https://github.com/LIT-Protocol/key-did-provider-secp256k1)**: Sign Ceramic transactions with a PKP using Lit Actions.
 - **[Working with Lit Actions](https://github.com/LIT-Protocol/js-serverless-function-test/tree/main/js-sdkTests)**: Examples to get you started.
-- **[Working with Access Control Conditions](https://developer.litprotocol.com/AccessControlConditions/EVM/basicExamples)**: Some basic examples to get you started.
+- **[Working with Access Control Conditions](https://developer.litprotocol.com/accessControl/intro)**: Some basic examples to get you started.
 
 ### Projects and Integrations.
 
