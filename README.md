@@ -11,9 +11,9 @@ Create a pull request adding your project.
 - [Lit Protocol Discord](https://discord.gg/GnTtFukpHq)
 - [Lit Protocol Twitter](https://twitter.com/LitProtocol)
 - [Lit Website](https://litprotocol.com/)
-- [Lit Blog](https://litprotocol.com/blog)
-- [Lit Newsletter](https://litproject.substack.com/)
-- [Contact Lit Protocol](https://airtable.com/shr2NWJbH1Y6Y3kOU)
+- [Lit Blog](https://spark.litprotocol.com/)
+- [Lit Newsletter](https://spark.litprotocol.com/)
+- [Contact Lit Protocol](https://nut.sh/ell/forms/352580/YEk9vu)
 - [Lit Community Calendar](https://litgateway.com/calendar)
 - [Jobs at Lit](https://jobs.lever.co/litprotocol)
 - [Lit Protocol Ecosystem Page](https://litprotocol.com/community)
@@ -21,33 +21,46 @@ Create a pull request adding your project.
 
 ### Media and Interviews.
 
-- **[Lit Protocol Overview](https://www.youtube.com/watch?v=YUYdwtRaVxI&t=79s)** - January '22
-- **[Programmable Key Pairs](https://www.youtube.com/embed/7dN2F2P_6Xo)** - October '22
 - **[Lit Protocol at Eth Portland](https://www.youtube.com/watch?v=285wvBBTa9c)** - November '21
-- **[Lit Protocol at LongHashX Demo Day](https://www.youtube.com/watch?v=Yl4SL8tdPLM)** - January '22
 - **[Lit Protocol: Introduction to Decentralized Access Control](https://www.youtube.com/watch?v=WgiWui2mGWs)** - December '21
+- **[Lit Protocol Overview](https://www.youtube.com/watch?v=YUYdwtRaVxI&t=79s)** - January '22
+- **[Lit Protocol at LongHashX Demo Day](https://www.youtube.com/watch?v=Yl4SL8tdPLM)** - January '22
 - **[The Road to Data Sovereignty: Lit at Eth Denver](https://www.youtube.com/watch?v=M6wqmie6pbU)** - February '22
-- **[Token Gating and Data Ownership in Web3](https://www.youtube.com/watch?v=CVGh9Un8U5s)** - July '22
 - **[David and Chris on the Zima Red Podcast](https://open.spotify.com/episode/6CBi2BpXmMVnG3Ce1dnifr?si=l8f7mdwfTO-TrINjfL_irg)** - May '22
+- **[Token Gating and Data Ownership in Web3](https://www.youtube.com/watch?v=CVGh9Un8U5s)** - July '22
+- **[Zora’s Metabolism Hackathon Private Data Workshop](https://www.youtube.com/watch?v=9h-n3_T8Exk)** - July '22
+- **[Programmable Key Pairs](https://www.youtube.com/embed/7dN2F2P_6Xo)** - October '22
 
 ### Developer Resources.
 
 - [Developer Docs](https://developer.litprotocol.com/)
-- [JavaScript SDK](https://github.com/LIT-Protocol/lit-js-sdk)
-- [SDK API documentation](https://lit-protocol.github.io/lit-js-sdk/api_docs_html/index.html)
-- [Lit Starter Guide](https://developer.litprotocol.com)
-- [Lit Grants](https://developer.litprotocol.com/litGrants)
+- [Testnet Faucet](https://chronicle-faucet-app.vercel.app/)
+- [Testnet Block Explorer](https://chain.litprotocol.com/)
+- [Token Contracts](https://developer.litprotocol.com/resources/contracts)
+- [Lit Explorer](https://explorer.litprotocol.com/pkps)
+- [Lit Actions CLI Tool](https://developer.litprotocol.com/litactions/getlitcli/)
+- [JavaScript SDK](https://github.com/LIT-Protocol/js-sdk)
+- [SDK API documentation](https://js-sdk.litprotocol.com/index.html)
+- [Lit Starter Guide](https://spark.litprotocol.com/lit-sdk-v2/)
+- [Lit Grants](https://github.com/LIT-Protocol/LitGrants)
 - [Lit RFPs](https://litprotocol.notion.site/Lit-Request-for-Ecosystem-Proposals-ae3f31e7f32c413cbe0b36c2fe53378d)
-- [Supported Networks](https://developer.litprotocol.com/supportedChains)
-- [Lit Share Modal](https://github.com/LIT-Protocol/lit-share-modal-v3)
-- [Error Handling](https://developer.litprotocol.com/SDK/errorHandling)
-- [Use Cases](https://developer.litprotocol.com/coreConcepts/usecases)
+- [Supported Networks](https://developer.litprotocol.com/resources/supportedChains)
+- [Error Handling](https://developer.litprotocol.com/SDK/Explanation/tests)
+- [Use Cases](https://developer.litprotocol.com/usecases)
 
-### Guides and Demos. 
+### Guides and Examples. 
 
+PKPs and Lit Actions:
+- **[Hello World](https://developer.litprotocol.com/LitActions/helloWorld)**: Hello World example to get you started.
+- **[Fetching Off-Chain Data](https://developer.litprotocol.com/LitActions/workingWithActions/usingFetch)**: Using Lit Actions to fetch data from off-chain sources.
+- **[Conditional Signing](https://developer.litprotocol.com/LitActions/workingWithActions/conditionalSigning)**: Condition-based transaction execution.
+- **[Automated Portfolio Rebalancing](https://spark.litprotocol.com/automated-portfolio-rebalancing-uniswap/)**: DeFi automation with Lit Actions.
+- **[Ceramic Signer](https://github.com/LIT-Protocol/key-did-provider-secp256k1)**: Sign Ceramic transactions with a PKP using Lit Actions.
+- **[Working with Lit Actions](https://github.com/LIT-Protocol/js-serverless-function-test/tree/main/js-sdkTests)**: Examples to get you started.
+
+Encryption and Access Control: 
 - **[Bundlr x Arweave Guide](https://developer.litprotocol.com/ToolsAndExamples/bundlrxarweave)**: Encrypt and decrypt private data on Arweave using Lit and Bundlr.
 - **[Lit x Ceramic Guide](https://spark.litprotocol.com/private-data-on-the-open-web)**: Encrypt and decrypt a string using Lit’s Ceramic SDK.
-- **[Zora’s Metabolism Hackathon Private Data Workshop](https://www.youtube.com/watch?v=9h-n3_T8Exk)**
 - **[Cask x Lit Protocol](https://medium.com/@caskprotocol/cask-protocol-integrates-with-lit-protocol-to-attach-private-data-to-nfts-token-gate-content-496b2c5bb995)**: Money flow automation protocol powering use cases such as subscriptions, auto investing, defi loan repayments, etc.
 - **[Token Gate a Next.js page by Nader Dabit](https://github.com/dabit3/nextjs-lit-token-gating)**
 - **[Control a Tesla with an NFT](https://www.youtube.com/watch?v=2EZiWT-7Xkk)**
@@ -55,9 +68,22 @@ Create a pull request adding your project.
 - **[Lit Protocol x Cloudflare](https://github.com/LIT-Protocol/lit-cloudflare-frontend)**: Gate a video or livestream using Lit and Cloudflare.
 - **[Token-gated Shopify](https://www.youtube.com/watch?v=R1gMwiJjtKo)**
 - **[ACL Smart Contract](https://github.com/masaun/ACL-smart-contract)**: Create a flexible and powerful authorization system.
-- **[Ceramic Signer](https://github.com/LIT-Protocol/key-did-provider-secp256k1)**: Sign Ceramic transactions with a PKP using Lit Actions.
-- **[Working with Lit Actions](https://github.com/LIT-Protocol/js-serverless-function-test/tree/main/js-sdkTests)**: Examples to get you started.
 - **[Working with Access Control Conditions](https://developer.litprotocol.com/accessControl/intro)**: Some basic examples to get you started.
+
+### Demo Apps.
+
+PKPs and Lit Actions:
+- **[Social Auth Demo](https://pkp-social-auth-example.vercel.app/)**: Create a PKP using Google oAuth
+- **[WebAuthn Demo App](https://pkp-walletconnect.vercel.app/)**: Use Passkeys (WebAuthn) to create a PKP
+- **[Cosmos Client Demo](https://demo.getlit.dev/pkp-client-demo)**: Signing Cosmos txs with PKPs
+
+Encryption and Access Control:
+- **[Encrypt + Decrypt Demo](https://demo.getlit.dev/simple-encrypt-decrypt)**: Learn how to encrypt and decrypt a string with Lit
+
+### Demo Clips
+- **[PKP Cosmos Signer](https://www.youtube.com/watch?v=zJEVPH1UUxM)**: Signing Cosmos txs with PKPs
+- **[Yacht Lit Swap](https://www.youtube.com/watch?v=4GOlvYAgejo)**: Cross-chain atomic swaps with Lit Actions and PKPs
+- **[Seed-Phraseless Onboarding](https://www.youtube.com/watch?v=HeD3RdqAvVM)**: Creating a PKP with nothing but a Google account
 
 ### Projects and Integrations.
 
