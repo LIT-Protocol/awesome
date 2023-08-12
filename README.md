@@ -143,12 +143,16 @@ Encryption and Access Control:
 - **[Cask](https://blog.cask.fi/cask-protocol-integrates-with-lit-protocol-to-attach-private-data-to-nfts-token-gate-content-496b2c5bb995)**: Automated, recurring payments.
 - **[AlgoveraAI](https://github.com/AlgoveraAI/streamlit-metamask?ref=spark.litprotocol.com)**: Token-gated Streamlit applications.
 
-### Wallets
+### Wallets and Account Abstraction (AA)
 
 - **[Peaze](https://www.peaze.com/)**: Seamless onboarding for Web3.
 - **[MagicWallet](https://github.com/DustilDawn/Magic)**: One account, multiple seedless wallets.
 - **[litu safu](https://ethglobal.com/showcase/litu-safu-m9tja)**: Use a PKP as a signer on a Safe.
 - **[Stackup](https://spark.litprotocol.com/account-abstraction-with-stackup-lit/)**: Adding an MPC key as a signer on an AA wallet.
+- **[ZeroDev](https://zerodev.app/)**: Smart wallets as a service.
+- **[SafeMail](https://ethglobal.com/showcase/safemail-n8b96)**: A one-click onboarding experience for Web3.
+- **[Patch Wallet](https://app.patchwallet.com/)**: Use your social account as your personal crypto wallet to manage your assets without the complexity.
+- **[Obvious](https://www.obvious.technology/)**: Flexible smart contract wallets.
 
 ### DeFi
 
