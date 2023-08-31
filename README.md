@@ -132,6 +132,7 @@ Encryption and Access Control:
 ### Privacy and Encryption
 
 - **[dKeeper](https://ethglobal.com/showcase/dkeeper-3ma7r?ref=spark.litprotocol.com)**: Access control management for dApps.
+- **[Incognfto](https://blog.spheron.network/incognfto-a-private-nft-gallery)**: Create a private NFT gallery with Spheron and Lit.
 - **[Selfguard](https://github.com/selfguard/selfguard?ref=spark.litprotocol.com)**: Universal API for encryption.
 - **[Starling Lab](https://github.com/starlinglab/archive-explorer/)**: Token-gated data archives.
 - **[Curve Labs](https://github.com/Curve-Labs/lit-privacy/tree/main)**: Privacy-preserving infrastructure tooling.
