@@ -120,6 +120,7 @@ Encryption and Access Control:
 
 ### Data and Identity Marketplaces
 
+- **[Index Network](https://index.network/)**: Create and monetize personalized content discovery engines.
 - **[WeaveDB](https://docs.weavedb.dev/docs/examples/lit-protocol)**: Decentralized Web3 database.
 - **[Streamr](https://blog.streamr.network/streamr-integrates-lit-protocol/)**: Distributed real-time data network.
 - **[KaratDAO](https://docs.karatdao.com/why-karat-network)**: A decentralized data network connecting Web2 to Web3.
