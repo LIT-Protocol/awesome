@@ -119,7 +119,7 @@ Encryption and Access Control:
 - **[Neya](https://github.com/stefsimion/Site-Neya-2)**: Web3-native 2FA protocol.
 - **[EtherMonitor](https://github.com/seetadev/EtherMonitor)**: Tools for traffic incident management.
 - **[ourpass](https://ethglobal.com/showcase/ourpass-91ucq)**: NFT event pass generator.
-- **[XION](https://xion.burnt.com/)**: XION empowers developers and brands to create frictionless Web3 experiences, with a toolkit that removes technical barriers for any user, anywhere.
+- **[Burnt](https://xion.burnt.com/)**: Burnt is working on XION, a solution that empowers developers and brands to create frictionless Web3 experiences, with a toolkit that removes technical barriers for any user, anywhere.
 - **[Gitcoin](https://docs.publicgoods.network/)**: Building the Public Goods Network, a new L2 specifically designed to support public goods. It has the same fast, cost-efficient, and scalable features that come with an L2, but with the added benefit of collecting funding for your favorite public goods projects.
 
 ### Data and Identity Marketplaces
