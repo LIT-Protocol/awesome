@@ -89,6 +89,7 @@ Encryption and Access Control:
 
 ### Social
 
+- **[Collab.Land](https://www.collab.land/)**: Web3 native community management and seamless user onboarding.
 - **[Relation](https://spark.litprotocol.com/semantic/)**: Web3 native social graph.
 - **[Orbis Club](https://orbis.club/)**: A fully decentralized social layer for Web3.
 - **[Gather](https://www.gather.town/)**: Virtual spaces for remote collaboration.
@@ -112,6 +113,7 @@ Encryption and Access Control:
 ### Infrastructure
 
 - **[BAILOUT](https://ethglobal.com/showcase/bailout-ia6s1?ref=spark.litprotocol.com)**: Securely move assets between EOAs, smart contract wallets, and cold wallets.
+- **[DIMO](https://dimo.zone/)**: Building IoT software solutions for cars. 
 - **[Strata Protocol](https://strataprotocol.com/)**: An open-source protocol to launch tokens around a person, project, idea, or collective on Solana.
 - **[Key-Recovery](https://github.com/Joseph-Gross/key-recovery)**: Distributed social private key recovery made by the team at [Sling Protocol](https://twitter.com/slingprotocol).
 - **[Neya](https://github.com/stefsimion/Site-Neya-2)**: Web3-native 2FA protocol.
@@ -133,6 +135,7 @@ Encryption and Access Control:
 ### Privacy and Encryption
 
 - **[dKeeper](https://ethglobal.com/showcase/dkeeper-3ma7r?ref=spark.litprotocol.com)**: Access control management for dApps.
+- **[Livepeer](https://docs.livepeer.org/tutorials/developing/token-gate-videos-using-lit.en-US)**: Livepeer is a high-performance video infrastructure protocol for live and on-demand streaming. 
 - **[Incognfto](https://blog.spheron.network/incognfto-a-private-nft-gallery)**: Create a private NFT gallery with Spheron and Lit.
 - **[Selfguard](https://github.com/selfguard/selfguard?ref=spark.litprotocol.com)**: Universal API for encryption.
 - **[Starling Lab](https://github.com/starlinglab/archive-explorer/)**: Token-gated data archives.
@@ -148,6 +151,7 @@ Encryption and Access Control:
 ### Wallets and Account Abstraction (AA)
 
 - **[Peaze](https://www.peaze.com/)**: Seamless onboarding for Web3.
+- **[Pimlico](https://docs.pimlico.io/how-to/integrations/lit-protocol)**: An infrastructure platform building the next generation of smart wallets.
 - **[MagicWallet](https://github.com/DustilDawn/Magic)**: One account, multiple seedless wallets.
 - **[litu safu](https://ethglobal.com/showcase/litu-safu-m9tja)**: Use a PKP as a signer on a Safe.
 - **[Stackup](https://spark.litprotocol.com/account-abstraction-with-stackup-lit/)**: Adding an MPC key as a signer on an AA wallet.
