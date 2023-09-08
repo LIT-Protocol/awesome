@@ -161,6 +161,7 @@ Encryption and Access Control:
 - **[SafeMail](https://ethglobal.com/showcase/safemail-n8b96)**: A one-click onboarding experience for Web3.
 - **[Patch Wallet](https://app.patchwallet.com/)**: Use your social account as your personal crypto wallet to manage your assets without the complexity.
 - **[Obvious](https://www.obvious.technology/)**: Flexible smart contract wallets.
+- **[Snowball](https://twitter.com/snowballtools/status/1693791419264090465)**: Shaping the future of mobile crypto. 
 
 ### DeFi
 
