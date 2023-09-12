@@ -112,6 +112,7 @@ Encryption and Access Control:
 
 ### Infrastructure
 
+- **[DataverseOS](https://dataverse-os.com/)**: DataverseOS is the next-generation personal computer owned by your wallet. It is an Internet Data Operating System that manages online data for users and eases development of sovereign data dApps.
 - **[BAILOUT](https://ethglobal.com/showcase/bailout-ia6s1?ref=spark.litprotocol.com)**: Securely move assets between EOAs, smart contract wallets, and cold wallets.
 - **[DIMO](https://dimo.zone/)**: Building IoT software solutions for cars. 
 - **[Strata Protocol](https://strataprotocol.com/)**: An open-source protocol to launch tokens around a person, project, idea, or collective on Solana.
@@ -173,7 +174,6 @@ Encryption and Access Control:
 ### Metaverse
 
 - **[Nowhere](https://www.urnowhere.com/)**: Token-gated metaverse spaces.
-- **[Dataverse](https://dataverse.art/)**: The first secure personal space for everyone, allowing users to aggregate Web2 & Web3 interests and control their online digital persona in one place.
 - **[Mona](https://monaverse.com/)**: Buy, mint, and sell metaverse worlds.
 
 ### Sports and Entertainment
