@@ -73,7 +73,7 @@ Encryption and Access Control:
 ### Demo Apps.
 
 PKPs and Lit Actions:
-- **[Social Auth Demo](https://pkp-social-auth-example.vercel.app/)**: Create a PKP using Google oAuth
+- **[Social Auth Demo](https://lit-pkp-auth-demo.vercel.app/)**: Create a PKP using social authentication
 - **[WebAuthn Demo App](https://pkp-walletconnect.vercel.app/)**: Use Passkeys (WebAuthn) to create a PKP
 - **[Cosmos Client Demo](https://demo.getlit.dev/pkp-client-demo)**: Signing Cosmos txs with PKPs
 
