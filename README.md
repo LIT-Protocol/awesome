@@ -13,7 +13,7 @@ Create a pull request adding your project.
 - [Lit Website](https://litprotocol.com/)
 - [Lit Blog](https://spark.litprotocol.com/)
 - [Lit Newsletter](https://spark.litprotocol.com/)
-- [Contact Lit Protocol](https://nut.sh/ell/forms/352580/YEk9vu)
+- [Contact Lit Protocol](https://docs.google.com/forms/d/e/1FAIpQLScBVsg-NhdMIC1H1mozh2zaVX0V4WtmEPSPrtmqVtnj_3qqNw/viewform)
 - [Lit Community Calendar](https://litgateway.com/calendar)
 - [Jobs at Lit](https://jobs.lever.co/litprotocol)
 - [Lit Protocol Ecosystem Page](https://litprotocol.com/community)
