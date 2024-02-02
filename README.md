@@ -43,7 +43,7 @@ Create a pull request adding your project.
 - [SDK API documentation](https://js-sdk.litprotocol.com/index.html)
 - [Lit Starter Guide](https://spark.litprotocol.com/lit-sdk-v2/)
 - [Lit Grants](https://github.com/LIT-Protocol/LitGrants)
-- [Lit RFPs](https://litprotocol.notion.site/Lit-Request-for-Ecosystem-Proposals-ae3f31e7f32c413cbe0b36c2fe53378d)
+- [Lit RFPs](https://github.com/orgs/LIT-Protocol/projects/2)
 - [Supported Networks](https://developer.litprotocol.com/resources/supportedChains)
 - [Error Handling](https://developer.litprotocol.com/SDK/Explanation/tests)
 - [Use Cases](https://developer.litprotocol.com/usecases)
