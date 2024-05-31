@@ -162,6 +162,7 @@ Create a pull request adding your project.
 
 #### DeFi
 
+- **[Genius](https://tradegenius.com/)**: Building a DeFi super-app.
 - **[AlphaCapture](https://alphacapture.xyz/)**: Creating the community-owned hedge funds of the future.
 - **[Yacht Labs](https://spark.litprotocol.com/xchain-bridging-yacht-lit-swap/)**: Cross-chain atomic swaps with PKPs and Lit Actions.
 - **[Sling Protocol](https://github.com/Sling-Protocol/pkp-dex-sdk)**: An SDK for automating DEX interactions using PKPs and Lit Actions.
