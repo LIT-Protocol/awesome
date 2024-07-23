@@ -32,20 +32,19 @@ Create a pull request adding your project.
 ### Developer Resources.
 
 - [Developer Docs](https://developer.litprotocol.com/)
-- [Testnet Faucet](https://chronicle-faucet-app.vercel.app/)
-- [Testnet Block Explorer](https://chain.litprotocol.com/)
+- [Testnet Faucet](https://chronicle-yellowstone-faucet.getlit.dev/)
+- [Testnet Block Explorer](https://yellowstone-explorer.litprotocol.com/)
 - [Token Contracts](https://developer.litprotocol.com/resources/contracts)
 - [Lit Explorer](https://explorer.litprotocol.com/pkps)
 - [Lit Actions CLI Tool](https://developer.litprotocol.com/litactions/getlitcli/)
 - [Lit Event Listener](https://developer.litprotocol.com/v3/tools/event-listener)
 - [JavaScript SDK](https://github.com/LIT-Protocol/js-sdk)
-- [Lit SDK API documentation](https://developer.litprotocol.com/v3/category/api-reference)
-- [Lit Actions API documentation](
+- [Lit SDK API documentation](https://v6-api-doc-lit-js-sdk.vercel.app/)
+- [Lit Actions API documentation](https://actions-docs.litprotocol.com/)
 - [Lit Grants](https://github.com/LIT-Protocol/LitGrants)
 - [Lit RFPs](https://github.com/orgs/LIT-Protocol/projects/2)
-- [Supported Networks](https://developer.litprotocol.com/resources/supportedChains)
+- [Supported Networks](https://developer.litprotocol.com/resources/supported-chains)
 - [Error Handling](https://developer.litprotocol.com/SDK/Explanation/tests)
-- [Use Cases](https://developer.litprotocol.com/usecases)
 
 ### Guides and Examples. 
 
